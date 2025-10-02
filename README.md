@@ -1,8 +1,10 @@
 <h1>
-  <img src="https://github.com/user-attachments/assets/2744edb2-8b94-48cb-8ca1-4e3c79943f89" 
-       width="50" height="50" 
-       style="vertical-align: middle; margin-right: 10px;"/>
-  Maze Solver
+  <span style="display: inline-flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/2744edb2-8b94-48cb-8ca1-4e3c79943f89" 
+         width="40" height="40" 
+         style="margin-right: 10px;"/>
+    Maze Solver
+  </span>
 </h1>
 
 
