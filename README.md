@@ -1,11 +1,12 @@
 <h1>
   <span style="display: inline-flex; align-items: center;">
     <img src="https://github.com/user-attachments/assets/2744edb2-8b94-48cb-8ca1-4e3c79943f89" 
-         width="40" height="40" 
+         width="50" height="50" 
          style="margin-right: 10px;"/>
-    Maze Solver
+    <span style="position: relative; top: -5px;">Maze Solver</span>
   </span>
 </h1>
+
 
 
 This project is a Python application for solving mazes using different algorithms.  
