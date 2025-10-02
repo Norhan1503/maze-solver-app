@@ -1,6 +1,8 @@
-# Maze Solver Application <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2744edb2-8b94-48cb-8ca1-4e3c79943f89" />
+<h1>
+  <img src="https://github.com/user-attachments/assets/2744edb2-8b94-48cb-8ca1-4e3c79943f89" width="50" height="50" style="vertical-align: middle;"/>
+  Maze Solver
+</h1>
 
-## 📌 Overview
 This project is a Python application for solving mazes using different algorithms.  
 It provides a Tkinter-based graphical user interface (GUI) that allows users to load mazes, set start and end points, and visualize the solution path.
 
