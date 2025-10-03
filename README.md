@@ -37,4 +37,4 @@ It provides a Tkinter-based graphical user interface (GUI) that allows users to 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Maze-Solver.git
+   git clone https://github.com/YourUsername/Maze-Solver-App.git
